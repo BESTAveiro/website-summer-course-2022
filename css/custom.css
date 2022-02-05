@@ -1,0 +1,6 @@
+@media only screen and (min-width: 768px) {
+    .margined {margin-left: 30%;}
+    .first-second-row {margin-left:30vw;}
+    .myhome {margin-left: 3vw; margin-top:3vh;}
+    .myclock {margin-left: 12%; margin-top:3vh;}
+  }
